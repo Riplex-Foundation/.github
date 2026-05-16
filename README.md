@@ -1,27 +1,57 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riplexrpx/assets/master/blockchains/smartchain/assets/0x18F47b65a28357a3765347E430Fc29C07413FF8c/logo.png" width="160" />
-</p>
+# Riplex Foundation (Official)
 
-<h1 align="center">Riplex Foundation</h1>
-
-<p align="center">
-Official organization behind the Riplex (RPX) ecosystem on BNB Chain.
-</p>
+Official GitHub organization for the Riplex (RPX) ecosystem on BNB Chain.
 
 ---
 
-## Ecosystem
-- DeFi
-- Web3
-- Smart Contracts
-- Staking
-- Community Governance
+## About
+
+Riplex is a decentralized blockchain ecosystem focused on:
+
+- Secure digital payments
+- DeFi infrastructure
+- Staking systems
+- Governance
+- Web3 innovation
+
+---
+
+## Ecosystem Repositories
+
+| Repository | Description |
+|---|---|
+| riplex-smart-contracts | Official smart contracts |
+| riplex-docs | Documentation |
+| riplex-token | Core token repository |
+| riplex-brand-assets | Logos & branding |
+
+---
+
+## Features
+
+- BEP-20 infrastructure
+- Staking mechanism
+- Treasury management
+- Security-first architecture
+- Community governance
+
+---
 
 ## Official Links
-- Website: https://riplex.org
-- X: https://x.com/riplexrpx
-- Telegram: https://t.me/riplexrpx
-- Discord: https://discord.gg/
 
-## Mission
-Building a transparent and community-driven blockchain ecosystem.
+- Website: https://riplex.io
+- Twitter: https://x.com/riplex
+- Telegram: https://t.me/riplex
+- Docs: https://docs.riplex.io
+
+---
+
+## Security
+
+All official contracts are verified and maintained by the Riplex Foundation.
+
+---
+
+## License
+
+Apache-2.0 License
